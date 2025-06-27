@@ -33,5 +33,8 @@ This project demonstrates how multiple clients can connect to a central server, 
 ---
 ## 📽️ Demo Video
 
-▶️ [Click here to watch the demo on Google Drive]([https://drive.google.com/drive/folders/1VKmJI7cgjLexQeLXD4xGtQD8mIn6FH4t?usp=drive_link])
+## 📽️ Demo Video
+
+▶️ [Click here to watch the demo on Google Drive](https://drive.google.com/drive/folders/1VKmJI7cgjLexQeLXD4xGtQD8mIn6FH4t?usp=drive_link)
+
 
