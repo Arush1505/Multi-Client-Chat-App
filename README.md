@@ -31,3 +31,4 @@ This project demonstrates how multiple clients can connect to a central server, 
 - Console-based input/output (`Scanner`, `BufferedReader`, `BufferedWriter`)
 
 ---
+▶️ [Click here to watch the demo](media/Demo.mp4)
